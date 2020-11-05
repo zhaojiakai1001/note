@@ -2,6 +2,8 @@
 
 https://www.jianshu.com/p/eb7d4a977190?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends
 
+## asd
+
 > #1
 >
 > 从数据中提取有用的知识，解决问题，是数据应用的核心目的
